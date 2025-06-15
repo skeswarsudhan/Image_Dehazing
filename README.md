@@ -88,7 +88,9 @@ project/
 └── README.md
 ```
 ### Notes
-The implementation is based directly on the ICCV 2013 dehazing paper.
+The implementation of Hazing is a novel approach discovered to calculate the amount of haze before and after removal. 
+
+The Dehazing implementation is based directly on the ICCV 2013 dehazing paper.
 
 Current code uses absolute paths — modify them to relative paths for portability.
 
