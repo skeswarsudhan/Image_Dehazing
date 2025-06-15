@@ -60,7 +60,7 @@ pip install numpy opencv-python scikit-image matplotlib
 ```
 (Install any additional packages if required)
 
-###3. Prepare Dataset
+### 3. Prepare Dataset
 Provide your own dataset of clear and hazy images.
 
 Update file paths inside the scripts as per your directory structure.
